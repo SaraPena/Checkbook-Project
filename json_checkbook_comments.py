@@ -1,3 +1,4 @@
+# This is latest version of checkbook app with comments
 # I have a previouse file checkbook.py that stores balances, deposits, and withdrawals in seperate text files.
 # Going to work with json so we can format the data in dictionaries, and lists.
 import json
